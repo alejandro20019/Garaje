@@ -26,6 +26,9 @@ public class Main {
                     System.out.println("De que tipo es su coche");
                     System.out.println("1. Normal");
                     System.out.println("2. Deportivo");
+                    System.out.println("3. Turismo");
+                    System.out.println("4. Camioneta");
+                    
 
                     Coche coche = null;
                     System.out.print("Opcion: ");
