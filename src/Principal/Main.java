@@ -16,6 +16,10 @@ public class Main {
             System.out.println("------------------");
             System.out.println("1. Agregar coche");
             System.out.println("2. Ver carage");
+            System.out.println("3. Eliminar carro");
+            System.out.println("3. Modifica carro");
+
+
             System.out.println("------------------");
 
             System.out.print("Opcion: ");
